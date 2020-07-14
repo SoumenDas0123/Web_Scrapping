@@ -1,2 +1,2 @@
 # Web_Scrapping
-  Different ways of web scrapping methods will be added in this repository.
+  Different methods of web scrapping methods will be added in this repository.
